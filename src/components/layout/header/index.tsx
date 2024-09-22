@@ -8,8 +8,6 @@ import search from "@/assets/icons/type.svg"
 import burger from "@/assets/icons/burger.svg"
 
 
-
-
 const header = () => {
   const navElements =[
     {title: "Home", href: "/"},
@@ -51,7 +49,7 @@ const header = () => {
     </div>
 
     <div className='flex gap-[20px] py-[10px]'>
-    <Image src={profile} alt='logo' className='cursor-pointer'/>
+    <Link href={'/login'}><Image src={profile} alt='logo' className='cursor-pointer mt-[6px]'/></Link>
     <Image src={search} alt='logo' className='cursor-pointer'/>
     <Image src={burger} alt='logo' className='cursor-pointer'/>
     </div>

@@ -25,7 +25,7 @@ const latestMain = ({latest}:IProps) => {
         </div>
         <div className='grid grid-cols-3 gap-y-10 gap-x-5 px-[30px]'>
         {latest.map((item) => (
-        <Link href={`/details/${item.id}`}><div className='w-[340px] h-[390px]  border-2 shadow-2xl cursor-pointer '>
+        <Link href={`/details/${item.id}`} ><div className='w-[340px] h-[390px]  border-2 shadow-2xl cursor-pointer '>
         <Image src={item.image} width={340} height={160} alt='logo' className='h-[160px]'/>
         <div className='w-[340px] px-[15px] py-[15px]'>
         <h3 className='text-[18px] font-semibold text-[#2A2A2A] mb-[15px]'>{item.title}</h3>
