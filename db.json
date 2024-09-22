@@ -1,0 +1,117 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "title": "New Technology Innovations in 2024",
+      "description": "This year has seen remarkable advancements in technology, particularly in AI and renewable energy.",
+      "author": "Jane Doe",
+      "date": "2024-09-15",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 2,
+      "title": "Global Climate Change Summit 2024",
+      "description": "World leaders gather to discuss urgent actions needed to combat climate change.",
+      "author": "John Smith",
+      "date": "2024-09-14",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 3,
+      "title": "Health Breakthroughs: New Cancer Treatments",
+      "description": "Researchers have unveiled promising new treatments for various types of cancer.",
+      "author": "Emily Johnson",
+      "date": "2024-09-13",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 4,
+      "title": "Economic Growth Predictions for 2025",
+      "description": "Experts predict a steady growth rate in the economy despite global challenges.",
+      "author": "Michael Brown",
+      "date": "2024-09-12",
+      "image": "https://picsum.photos/200/300"
+    },
+    {
+      "id": 5,
+      "title": "Exploring Space: New Missions Planned",
+      "description": "NASA and other space agencies are planning ambitious new missions to Mars and beyond.",
+      "author": "Lisa White",
+      "date": "2024-09-11",
+      "image": "https://picsum.photos/200/300"
+    }
+  ],
+
+  "sport": [
+    {
+      "id": 1,
+      "title": "Preparation Process for the 2024 Summer Olympics",
+      "description": "Athletes from around the world are continuing their preparations for the 2024 Summer Olympics.",
+      "author": "Ali Yilmaz",
+      "date": "2024-09-15",
+      "image": "https://picsum.photos/200/300?random=1"
+    },
+    {
+      "id": 2,
+      "title": "FIFA World Cup Qualifiers Begin",
+      "description": "The qualifying matches for the 2026 FIFA World Cup will kick off this week.",
+      "author": "Ayse Demir",
+      "date": "2024-09-14",
+      "image": "https://picsum.photos/200/300?random=2"
+    },
+    {
+      "id": 3,
+      "title": "Excitement Builds for the New Season of the Basketball Super League",
+      "description": "The new season of the Turkish Basketball Super League starts this weekend.",
+      "author": "Emre Koc",
+      "date": "2024-09-13",
+      "image": "https://picsum.photos/200/300?random=3"
+    },
+    {
+      "id": 4,
+      "title": "Grand Slam Contenders in Tennis",
+      "description": "Favorites for the Grand Slam tournaments have been identified in the tennis world.",
+      "author": "Zeynep Arslan",
+      "date": "2024-09-12",
+      "image": "https://picsum.photos/200/300?random=4"
+    },
+    {
+      "id": 5,
+      "title": "MotoGP Season Continues",
+      "description": "The MotoGP World Championship will continue with a new race this weekend.",
+      "author": "Mehmet Can",
+      "date": "2024-09-11",
+      "image": "https://picsum.photos/200/300?random=5"
+    }
+],
+
+"latest": [
+    {
+      "id": 1,
+      "title": "Breakthrough in Renewable Energy Technology",
+      "description": "A new solar panel technology promises to increase efficiency dramatically.",
+      "author": "Jane Smith",
+      "date": "2024-09-16",
+      "image": "https://picsum.photos/200/300?random=6"
+    },
+    {
+      "id": 2,
+      "title": "Local Team Wins National Championship",
+      "description": "The local football team clinches the title in a thrilling final match.",
+      "author": "John Doe",
+      "date": "2024-09-17",
+      "image": "https://picsum.photos/200/300?random=7"
+    },
+    {
+      "id": 3,
+      "title": "Exploring the Wonders of Deep Space",
+      "description": "Scientists unveil new discoveries from recent space missions.",
+      "author": "Lisa White",
+      "date": "2024-09-18",
+      "image": "https://picsum.photos/200/300?random=8"
+    }
+]
+
+
+}
+
