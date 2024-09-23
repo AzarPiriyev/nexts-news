@@ -1,9 +1,22 @@
 import DetailsMain from '@/components/details'
 import React from 'react'
 
-const DetailsContainer = () => {
+interface IInform {
+  id: number,
+  title: string;
+  description: string;
+  author: string;
+  date: string;
+  image: string;
+}
+
+interface IProps{
+  details:IInform[]
+}
+
+const DetailsContainer = ({details}:IProps) => {
   return (
-    <DetailsMain/>
+    <DetailsMain details = {details}/>
   )
 }
 

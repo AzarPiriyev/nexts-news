@@ -4,6 +4,13 @@ export const getNews = async () => {
     return world;
 };
 
+export const getNewsById = async (id: number) => {
+    const response = await fetch(`http://localhost:3000/news/${id}`); 
+    const newsDetail = await response.json();
+    return newsDetail;
+};
+
+
 
 export const getSport = async () => {
     const response = await fetch('http://localhost:3001/sport');
